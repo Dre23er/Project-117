@@ -1,0 +1,26 @@
+#show_sketch{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 900px;
+    margin-top: 325px;
+}
+#clear_canvas{
+    font-weight: bold;
+}
+h1{
+    font-family: fantasy;
+    
+}
+
+#label{
+    font-family: fantasy;
+}
+
+#confidence{
+    font-family: fantasy;
+}
+
